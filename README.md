@@ -29,6 +29,7 @@ Day03/
 ## Progress
 
 - ✅ Day 01 – Python Basics
+- ✅ Day 02 – Loops, Lists, Tuples and Functions
 
 ## Author
 
