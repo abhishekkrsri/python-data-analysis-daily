@@ -1,4 +1,0 @@
-Symbol: EURUSD
-Timeframe: 15 Minutes
-High: 1.1050
-Low: 1.0980
