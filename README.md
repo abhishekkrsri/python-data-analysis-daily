@@ -30,6 +30,7 @@ Day03/
 
 - ✅ Day 01 – Python Basics
 - ✅ Day 02 – Loops, Lists, Tuples and Functions
+- ✅ Day 03 – Dictionaries, Sets, List Comprehension, Exception Handling, File Handling
 
 ## Author
 
