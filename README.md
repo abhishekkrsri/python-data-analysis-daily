@@ -23,6 +23,7 @@ Every day, I complete 5 Python exercises or concepts with working examples and p
 Day01/
 Day02/
 Day03/
+Day04/
 ...
 ```
 
@@ -31,6 +32,7 @@ Day03/
 - ✅ Day 01 – Python Basics
 - ✅ Day 02 – Loops, Lists, Tuples and Functions
 - ✅ Day 03 – Dictionaries, Sets, List Comprehension, Exception Handling, File Handling
+- ✅ Day 04 – String Methods, Nested Loops, Function Arguments, Lambda Functions and Modules
 
 ## Author
 
