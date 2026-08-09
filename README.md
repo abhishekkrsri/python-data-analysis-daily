@@ -25,6 +25,7 @@ Day02/
 Day03/
 Day04/
 Day05/
+Day06/
 ...
 ```
 
@@ -35,6 +36,7 @@ Day05/
 - ✅ Day 03 – Dictionaries, Sets, List Comprehension, Exception Handling, File Handling
 - ✅ Day 04 – String Methods, Nested Loops, Function Arguments, Lambda Functions and Modules
 - ✅ Day 05 – Classes, Inheritance, Datetime Module, Random Module, JSON Handling
+- ✅ Day 06 – Variable Scope, *args, **kwargs, map() and filter()
 
 ## Author
 
