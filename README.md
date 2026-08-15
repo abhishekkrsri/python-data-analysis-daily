@@ -26,6 +26,8 @@ Day03/
 Day04/
 Day05/
 Day06/
+Day07/
+Day08/
 ...
 ```
 
@@ -37,6 +39,9 @@ Day06/
 - ✅ Day 04 – String Methods, Nested Loops, Function Arguments, Lambda Functions and Modules
 - ✅ Day 05 – Classes, Inheritance, Datetime Module, Random Module, JSON Handling
 - ✅ Day 06 – Variable Scope, *args, **kwargs, map() and filter()
+- ✅ Day 07 – Access Lists, Change Lists, Add List Items, Remove List Items and Loop Lists
+- ✅ Day 08 – Sort Lists, Copy Lists, Join Lists, Access Tuples and Update Tuples
+
 
 ## Author
 
